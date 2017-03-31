@@ -1,7 +1,7 @@
 title: Lisheng's Life
 description: Life & coding
 google_analytics: UA-37766772-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
