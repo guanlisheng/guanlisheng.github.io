@@ -1,4 +1,3 @@
-{% include adsense.html %}
 ###  Simple coder with following experiences
 * Principal Software Engineer at [Freewheel](https://www.linkedin.com/in/guanlisheng) (2008 to now)
 * Key developer for project [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
