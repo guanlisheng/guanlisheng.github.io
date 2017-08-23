@@ -7,9 +7,10 @@
 * Son of a big family (1983 to now)  
 
 ### Major Skills
+* Product Design
 * Log Processing
 * Data Warehouse
-* C++/Linux/Python
+* C++/Go/Linux/Python
 
 ### Contact me
 * guanlisheng@gmail.com
