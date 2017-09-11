@@ -8,7 +8,7 @@
 
 ### Major Skills
 * Product Design
-* Log Processing
+* Log Processing and Analysis
 * Data Warehouse
 * C++/Go/Linux/Python
 
