@@ -1,5 +1,6 @@
 ###  Simple coder with following experiences
-* Father (2015 to now)
+* Father of a boy (2017 to now)
+* Father of a girl (2015 to now)
 * Husband (2013 to now)
 * Key developer for project [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
 * Principal Software Engineer at [Freewheel](https://www.linkedin.com/in/guanlisheng) (2008 to now)
