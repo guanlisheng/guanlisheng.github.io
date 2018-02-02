@@ -3,7 +3,7 @@
 * Father of a girl (2015 to now)
 * Husband (2013 to now)
 * Key developer for project [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
-* Principal Software Engineer at [Freewheel](https://www.linkedin.com/in/guanlisheng) (2008 to now)
+* Principal Software Engineer at [FreeWheel](https://www.linkedin.com/in/guanlisheng) (2008 to now)
 * CS Student at [NanKai University](http://www.nankai.edu.cn) (2004 ~ 2008)
 * Son of a big family (1983 to now)  
 
