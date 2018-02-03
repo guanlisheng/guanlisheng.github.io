@@ -3,7 +3,7 @@ description: Life & coding
 author: Lisheng Guan
 google_analytics: UA-37766772-1
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
