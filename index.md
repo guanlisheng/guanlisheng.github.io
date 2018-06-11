@@ -1,5 +1,5 @@
 
-##  Simple coder with following experiences
+##  Simple programer with following experiences
 * Father of a boy (2017 to now)
 * Father of a girl (2015 to now)
 * Husband (2013 to now)
