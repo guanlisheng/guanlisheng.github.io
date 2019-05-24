@@ -10,7 +10,7 @@
   * Senior Software Engineer (Feb 2012 to Jul 2014)
   * Junior Software Engineer (Jul 2008 to Jan 2012)
 * CS Student at [NanKai University](http://www.nankai.edu.cn) (2004 ~ 2008)
-* Son of a big family (1983 to now)  
+* Son of a big family (198x to now)  
 
 ## Major Skills
 * Product Design
