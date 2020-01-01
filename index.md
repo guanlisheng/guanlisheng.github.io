@@ -19,6 +19,6 @@
 * C++/Go/Linux/Python
 
 ## Contact me
-* [email me] (guanlisheng@gmail.com)
+* guanlisheng@gmail.com
 * [cash me a coffee](https://cash.me/$guanlisheng/1)
 * [paypal me a coffee](https://www.paypal.me/moneymanagerex/1)
