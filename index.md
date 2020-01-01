@@ -20,4 +20,5 @@
 
 ## Contact me
 * guanlisheng@gmail.com
-* [buy me a coffee](https://cash.me/$guanlisheng/1)
+* [cash me a coffee](https://cash.me/$guanlisheng/1)
+* [paypal me a coffee](https://www.paypal.me/moneymanagerex/1)
