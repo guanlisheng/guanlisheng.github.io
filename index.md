@@ -12,7 +12,7 @@
 * Son of a big family (1980+ to now)  
 
 ## Major Skills
-* Product Design
+* Data Products Design
 * Application Architecture and Infra Architecture
 * Log Processing, ETL, Analytics and Insights
 * Data Warehouse and Data Mart
