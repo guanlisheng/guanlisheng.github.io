@@ -2,7 +2,7 @@
 ## Simple programer with following experiences
 * Father of both children
 * Husband (2013 to now)
-* Architecture for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
+* Key engineer for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
 * Software Engineer at [FreeWheel](https://www.linkedin.com/in/guanlisheng) (Jul 2008 to now)
   * Principal Software Engineer (Feb 2016 to now)
   * Lead Software Engineer (Aug 2014 to Jan 2016)
