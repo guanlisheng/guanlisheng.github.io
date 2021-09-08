@@ -4,7 +4,7 @@
 * Husband (2013 to now)
 * Key engineer for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
 * Software Engineer at [FreeWheel](https://www.linkedin.com/in/guanlisheng) (Jul 2008 to now)
-  * Architect (Aug 2021 to now)
+  * Architect (Aug 2021 to Sep 2021)
   * Principal Software Engineer (Feb 2016 to Jul 2021)
   * Lead Software Engineer (Aug 2014 to Jan 2016)
   * Senior Software Engineer (Feb 2012 to Jul 2014)
