@@ -16,8 +16,8 @@
 ## Major Skills
 * Data Products Design
 * Application Architecture and Infra Architecture
-* Log Processing, ETL, Analytics and Insights
-* Data Warehouse and Data Mart
+* Log Processing, ELT, ETL, Analytics and Insights
+* Data Lake, Data Warehouse and Data Mart
 * C++/Go/Linux/Python
 
 ## Contact me
