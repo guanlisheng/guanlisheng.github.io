@@ -10,7 +10,10 @@ layout: default
 * Architect at [NewsBreak](https://www.linkedin.com/in/guanlisheng) (Sep 2021 to Jul 2023)
   * introduced Schema Registry, Hudi(data lake), and Presto with alluxio local cache to enhance data onboarding and access efficiency
   * layout tiered and federation query engine to access multi-data sources
-* Key engineer for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
+* Core engineer for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to now)
+ * Principal contributor to MMEX for Desktop
+ * Revitalized [MMEX for Android](https://android.moneymanagerex.org/)
+ * Founded [MMEX for iOS](https://ios.moneymanagerex.org/)
 * Software Engineer at [FreeWheel](https://www.linkedin.com/in/guanlisheng) (Jul 2008 to Sep 2021)
   * Architect (Aug 2021 to Sep 2021)
   * Principal Software Engineer (Feb 2016 to Jul 2021)
