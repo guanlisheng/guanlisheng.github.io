@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+{% include ga.html %}
 
 ## Simple programmer with the following experiences
 * Father of both children
@@ -24,4 +29,3 @@
 
 ## Contact me
 * guanlisheng@icloud.com
-* [paypal me a coffee](https://www.paypal.me/moneymanagerex/1)
