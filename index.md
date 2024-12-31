@@ -29,6 +29,3 @@ layout: default
 * Log Processing, ELT, ETL, Analytics, and Insights
 * Data Lake, Data Warehouse, and Data Mart
 * C++/Go/Linux/Python
-
-## Contact me
-* guanlisheng@icloud.com
