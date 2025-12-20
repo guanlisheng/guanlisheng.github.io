@@ -7,9 +7,10 @@ layout: default
 ## Simple programmer with the following experiences
 * Father of both children
 * Husband (2013 to now)
+* Early team member at a GEO-focused startup (Oct 2025 – Present)
 * Architect at [NewsBreak](https://www.linkedin.com/in/guanlisheng) (Sep 2021 to Jul 2023)
   * introduced Schema Registry, Hudi(data lake), and Presto with alluxio local cache to enhance data onboarding and access efficiency
-  * layout tiered and federation query engine to access multi-data sources
+  * layout tiered and federation query engine to access multiple data sources
 * Core engineer for product [Money Manager Ex](http://www.moneymanagerex.org/) (2012 to present)
   * Principal contributor to MMEX for Desktop
   * Revitalized [MMEX for Android](https://android.moneymanagerex.org/)
@@ -29,3 +30,4 @@ layout: default
 * Log Processing, ELT, ETL, Analytics, and Insights
 * Data Lake, Data Warehouse, and Data Mart
 * C++/Go/Linux/Python
+
